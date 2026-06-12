@@ -13,6 +13,7 @@ A skill is a folder of instructions Claude loads on demand. Drop these into your
 | [`build-automation`](skills/build-automation/SKILL.md) | Pick the right runtime for a new automation (inline service vs durable workflow vs heavy orchestrator) and scaffold a known-good starting point. |
 | [`design-os`](skills/design-os/SKILL.md) | Build clean, production-grade UI with shadcn/ui and Tailwind, using design-system thinking to avoid generic AI-slop layouts. |
 | [`vaughn-wiki`](skills/vaughn-wiki/SKILL.md) | Maintain a structured local markdown knowledge base so decisions and context persist and recall across sessions. |
+| [`deep-research`](skills/deep-research/SKILL.md) | Run a deep, multi-source, fact-checked research pass: fan out searches, score sources, adversarially verify each claim, then synthesize a cited report. |
 
 ## Install
 
